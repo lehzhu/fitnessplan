@@ -1,3 +1,2 @@
-This is s-05 of microservices project 
+This service empowers the user to generate exercise plans corresponding to their desired muscle groups, with a Postgres database that saves each user profile. It connects to an external service registry through HTTP, and is created with Express, TypeScript, and Vite.
 
-User can log in and create a randomly generated fitness plan 
